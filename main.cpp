@@ -1,4 +1,4 @@
- #include <iostream>
+#include <iostream>
 #include"sculptor.hpp"
 
 using namespace std;
